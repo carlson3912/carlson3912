@@ -5,7 +5,7 @@ Student at UC Irvine
 
 
 
-Data Science:
+<h1>Data Science Experience: </h1>
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
@@ -22,10 +22,8 @@ languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
 tools = ["React", "Node", "Three.js"]
 ```
 
-<img src = "https://en.m.wikipedia.org/wiki/File:Ipfs-logo-1024-ice-text.png" />
-
 <h2 align="center">
-  <a href="#readme" title="Ganache README.md"><img alt="Ganache" src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/docs/assets/img/ganache-logo-dark.svg" alt="Ganache" width="160"/></a>
+  <a href="#readme" title="Ganache logo"><img alt="Ganache" src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/docs/assets/img/ganache-logo-dark.svg" alt="Ganache" width="160"/></a>
 </h2>
 
 <!--
