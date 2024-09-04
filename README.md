@@ -1,6 +1,7 @@
 ## Jack Carlson
 
-Student at UC Irvine:
+Student at UC Irvine
+Software Engineer
 
 Data Science:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -9,6 +10,7 @@ Data Science:
 ![Weights and Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+Web Development:
 ```javascript
 school = "UCI"
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
