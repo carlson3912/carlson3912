@@ -22,6 +22,8 @@ languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
 tools = ["React", "Node", "Three.js"]
 ```
 
+<img src = "https://en.m.wikipedia.org/wiki/File:Ipfs-logo-1024-ice-text.png" />
+
 
 <!--
 **carlson3912/carlson3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
