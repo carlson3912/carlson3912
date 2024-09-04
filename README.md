@@ -5,10 +5,9 @@ Software Engineer
 
 Data Science:
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-- **[Settlement Detection](https://github.com/carlson3912/satellite-settlement-detection)**: A brief description of the first project, outlining its key features or objectives.
-- **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A short summary of the second project, highlighting its main purpose or functionality.
+- **[Settlement Detection](github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
+- **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
 
-  </p>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
