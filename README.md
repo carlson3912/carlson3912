@@ -5,8 +5,7 @@ Student at UC Irvine
 
 
 
-<h1>Data Science Experience: </h1>
-<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+<h3>Data Science Experience: </h3>
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
 
