@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## hello
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
 <!--
 **carlson3912/carlson3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
