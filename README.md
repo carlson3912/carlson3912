@@ -5,9 +5,9 @@ Software Engineer
 
 Data Science:
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-   <a href="https://github.com/carlson3912/satellite-settlement-detection"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+- **[Settlement Detection](https://github.com/carlson3912/satellite-settlement-detection)**: A brief description of the first project, outlining its key features or objectives.
+- **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A short summary of the second project, highlighting its main purpose or functionality.
+
   </p>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
