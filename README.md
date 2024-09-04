@@ -5,7 +5,7 @@ Student at UC Irvine
 
 
 
-<h3> <a>/a>Data Science Experience: </a></h3>
+##Data Science Experience:
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
 
