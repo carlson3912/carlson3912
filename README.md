@@ -19,7 +19,7 @@ Data Science:
 Web Development:
 ```javascript
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
-tools = ["React", "Node"]
+tools = ["React", "Node", "Three.js"]
 ```
 
 
