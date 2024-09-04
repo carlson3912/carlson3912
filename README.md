@@ -16,8 +16,8 @@ Data Science:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
 
-Web Development:
 ```javascript
+//Web Development Skills
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
 tools = ["React", "Node", "Three.js"]
 ```
