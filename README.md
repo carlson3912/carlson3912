@@ -5,7 +5,7 @@ Student at UC Irvine
 
 
 
-##Data Science Experience:
+## Data Science Experience:
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
 
@@ -18,12 +18,8 @@ Student at UC Irvine
 ```javascript
 //Skills
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
-tools = ["React", "Node", "Three.js"]
+tools = ["React", "Node", "Three.js", "Ganache"]
 ```
-
-<h2 align="center">
-  <a href="#readme" title="Ganache logo"><img alt="Ganache" src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/docs/assets/img/ganache-logo-dark.svg" alt="Ganache" width="160"/></a>
-</h2>
 
 <!--
 **carlson3912/carlson3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
