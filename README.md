@@ -1,6 +1,6 @@
 ## Jack Carlson
 
-Student at UC Irvine       Software Engineer        [![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
+Student at UC Irvine       Software Engineer       <p align="right"> [![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/) </p>
 
 Data Science:
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
