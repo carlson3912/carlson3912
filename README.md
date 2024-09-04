@@ -2,6 +2,7 @@
 
 Student at UC Irvine
 Software Engineer
+[![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
 
 Data Science:
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -16,12 +17,9 @@ Data Science:
 
 Web Development:
 ```javascript
-school = "UCI"
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
 tools = ["React", "Node"]
-certified_ibm_data_science = true
 ```
-[![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
 
 
 <!--
