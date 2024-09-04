@@ -1,5 +1,6 @@
-## Jack Carlso
+## Jack Carlson
 ## student at UCI
+[![Linkedin: jack-carlson2](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
 <!--
 **carlson3912/carlson3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
