@@ -1,9 +1,4 @@
-Student at UC Irvine
-<br/>
-
 [![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
-
-
 
 ## Data Science Experience:
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
