@@ -17,13 +17,16 @@ Data Science:
 ![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
 
 ```javascript
-//Web Development Skills
+//Skills
 languages = ["JS/TS", "Python", "Java", "C++/C", "Solidity"]
 tools = ["React", "Node", "Three.js"]
 ```
 
 <img src = "https://en.m.wikipedia.org/wiki/File:Ipfs-logo-1024-ice-text.png" />
 
+<h2 align="center">
+  <a href="#readme" title="Ganache README.md"><img alt="Ganache" src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/docs/assets/img/ganache-logo-dark.svg" alt="Ganache" width="160"/></a>
+</h2>
 
 <!--
 **carlson3912/carlson3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
