@@ -3,6 +3,7 @@
 ## Data Science Experience:
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
+- **[eCFR Analyzer Detection](https://github.com/carlson3912/eCFR-analyzer)**: Uses the eCFR (Electronic Code of Federal Regulations) API to do some analysis on the current state and historical trends of the database. This was a 24 hour project for an interview with DOGE. It is live **[here](https://peppy-cannoli-580ad8.netlify.app/)**.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Weights and Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
