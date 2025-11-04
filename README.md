@@ -1,5 +1,8 @@
 [![Linkedin: jack-carlson2](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-carlson2/)](https://www.linkedin.com/in/jack-carlson2/)
-
+## Open Source Work at K-Scale:
+- **[K-Bot Teleoperation](https://github.com/kscalelabs/kbot_vr_teleop)**: WebXR frontend for video streaming and hand tracking. Backend code for Inverse Kinematics and WEBRTC signaling relay.
+- **[K-Bot Firmware](https://github.com/kscalelabs/pyfirmware)**: K-Bot firmware written in Python. 
+- 
 ## Data Science Experience:
 - **[Settlement Detection](https://github.com/cs175cv-w2024/final-project-perchance-labs)**: Developed and tested multiple models to identify unelectrified settlements in Africa using satellite imagery. Part of a UCI project course.
 - **[IBM Data Science Capstone](https://github.com/carlson3912/SpaceXLaunchPrediction)**: A collection of some of my work for the IBM Data Science Capstone Project.
